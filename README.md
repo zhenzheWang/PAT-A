@@ -1,7 +1,7 @@
 # PAT-A
 PAT甲级真题解答
 
-PAT (Basic Level) Practice WebSite: https://www.patest.cn/contests
+PAT (Advanced Level) Practice WebSite: https://www.patest.cn/contests/pat-a-practise
 
 ---
 
